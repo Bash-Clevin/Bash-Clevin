@@ -1,50 +1,29 @@
-<pre>
------------------------------------------------------------------------------------------
-<span>So Here We are!!</span>
------------------------------------------------------------------------------------------
-   
-                                             ,d""7b.
-                                           ,'    ,d^b.
-                            __,d"""""""b..d.    d'
-              ,d""""-.  ,d""'              `"b.dP
-            dP' ,___  `7b.                     `b
-          `"788P'  `".   "                       `b
-          ,d" `b      `"                          `7.
-    `P""""7.   8)                                   7.
-     `.    8  ,P               ,---.                 """"b.
-      8.  d' ,P             ,d"   ,88b.         "b       `8
-     d' `"  ,P             ""    ,P   `7b        `b     ,dP
-    d'      8                    d       `b.      d8888888888b.
-   ,'      d'                   ,8.     8   78""""""788888888' `"b.
-   8b _   8P                 ,P'   `"""oo.,d"          ""788'     `7.
- .-""""8 d8'            ,-""7P                       .    `7.      ,8.
-`b     8 88              ,d"8   d8b.                 8b    `b      d `.
-  `b___8 88             '  ,8  d8888888b.           ; `b    8     ,P  8.
-   8     88                8  d8"7P""8""""b..      ,8  `b  ,8"""""8'  88
-   8     `b ,d"'           7  8  8   8   ,8. 7P--,dP   ,8"'     ,8' _,d8.
-   7.     8d"                 8 ,db.P""bd' `7P ,d""""""""""""""""""'    8
-   `b     d'                  8P'  8   88  ,P"'                         8
-    7. _,d'                   7b  ,d88888"'                            d'
-    ,P' '8                     8888888"'                               8
-   ,P   88                     `888P'                                  8
-  ,8_mGk_8                       "'                                   d'
-        "8                                                    ,'     d'
-         `b                                                  d8b..d""
-          `b                                              ,dP'
-           `7.                           ______________,d""
-             `7b.                     ,d""
-                `7b..             _,d"'
-                     """--....-"""'
-</pre>
-<!-- ## Art by Michal 'Goldmoon' Kwasniewski --->
+I am a Cloud Engineer at [Megatherium](https://megatherium.eu/)&nbsp;
 
-I am a Tech and Network Engineering Enthusiast.I can Speak in [Flutter](https://flutter.dev/), Script in [bash](https://www.gnu.org/software/bash/), eloquent in [Python](https://www.python.org/), fix your printer and any Other annoying stuff such as [Linux]()  etc...
-<br />
+My current tech stack entails: <br><br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) <br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) <br>
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) <br>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
 
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-Clevin&theme=gotham&layout=compact&hide=html" alt="Bash-Clevin" /></div>
-<br />
-<br />
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bash-Clevin&theme=gotham&show_icons=true%22" alt="Bash-Clevin" /></div>
 
 
