@@ -23,7 +23,3 @@ My current tech stack entails: <br><br>
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
-
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=Bash-Clevin&theme=gotham&show_icons=true%22" alt="Bash-Clevin" /></div>
-
-
